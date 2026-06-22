@@ -1,7 +1,7 @@
 # ICSP Client
 This is a fork of Neko's client, which I can add more features and EOA to it as well as some accessibility and actually useful features e.g. a better write tool font which actually has support for special characters.
 
-This client will not give any hacks of ourworldofpixels, but will fix some incostistencies like the height of emotes in the chat.
+This client will not give any hacks of ourworldofpixels, but will fix some inconsistencies like the height of emotes in the chat.
 
 # Download & User Instructions
 
@@ -13,5 +13,6 @@ If you want to clone the repo and run the program (after installing packages) yo
 # Mentions
 
 nothinghere7759 helped in the making of neko-client.
+
 Forked from neko-client
 
