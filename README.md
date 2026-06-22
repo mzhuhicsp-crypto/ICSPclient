@@ -1,27 +1,17 @@
-# Neko Client
-This is a program for users of ourworldofpixels where I can add features to ourworldofpixels much easier than originally using Neko Script.
+# ICSP Client
+This is a fork of Neko's client, which I can add more features and EOA to it as well as some accessibility and actually useful features e.g. a better write tool font which actually has support for special characters.
 
-This is possible because this is not a script it is a provided client which connects directly to ourworldofpixel servers.
-
-More information is provided at my [discord server](https://discord.gg/ChGDaWuHgH) where I will also host downloads to the program.
+This client will not give any hacks of ourworldofpixels, but will fix some incostistencies like the height of emotes in the chat.
 
 # Download & User Instructions
-First you will need to [download the zip](https://raw.githubusercontent.com/NekoNoka/neko-client/refs/heads/main/dist/neko%20client%201.0.0.zip) in the /dist then unzip it.
 
-* For older versions whenever those start existing will be provided using google services, this repository will only host the latest version for download.
-
-For most systems you can just double click the html file inside the folder.
-
-```
-./src/index.html
-```
-
-Otherwise open the file in your browser of choice.
+This client will be able to be accessed faster. Just go to the releases tab and download the latest release. 
 
 # For Developers
 If you want to clone the repo and run the program (after installing packages) you will need to build first then open the html file in src, this generates the bundle.js file which is used by the html file.
 
-
 # Mentions
 
 nothinghere7759 helped in the making of neko-client.
+Forked from neko-client
+
