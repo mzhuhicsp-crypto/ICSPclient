@@ -4,9 +4,9 @@
 
 :root {
 	/* Owop has a lot of  */
-	--bg-light: #aba389;
-	--bg-dark: #7e635c;
-	--bg-inset: #4d313b;
+	--bg-light: #8aab89c2;
+	--bg-dark: #5c7e5f85;
+	--bg-inset: #314d33;
 }
 
 html,
@@ -20,7 +20,7 @@ body {
 }
 
 body {
-	background-color: #d1d1d1;
+	background-color: #acffbe9c;
 	background-image: url(../img/unloaded.png);
 	background-size: 16px;
 }
@@ -911,11 +911,11 @@ button:active {
 }
 
 #chat-messages>li.playerMessage {
-	color: #999;
+	color: #3fffdf;
 }
 
 #chat-messages>li.userMessage>.nick {
-	color: #3ab2ff;
+	color: #3fffdf;
 }
 
 #chat-messages>li.modMessage {

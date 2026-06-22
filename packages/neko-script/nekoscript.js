@@ -914,22 +914,22 @@ const IMPORTS = (function () {
             text: "101101"
         },
         "?": {
-            width: 3,
-            height: 5,
+            width: 4,
+            height: 7,
             skip: 1,
-            text: `110001010000010`
+            text: `0110100100010010010000000100`
         },
         "!": {
             width: 1,
-            height: 5,
+            height: 7,
             skip: 1,
-            text: `11101`
+            text: `1111101`
         },
         ",": {
-            width: 1,
+            width: 2,
             height: 2,
             skip: 5,
-            text: `11`
+            text: `0110`
         },
         ".": {
             width: 1,
@@ -938,10 +938,10 @@ const IMPORTS = (function () {
             text: `1`
         },
         "&": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `010101010101011`
+            text: `01111000011010010111`
         },
         "[": {
             width: 2,
@@ -1058,64 +1058,64 @@ const IMPORTS = (function () {
             text: `111000111`
         },
         "0": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111101101101111"
+            text: "01101011100111010110"
         },
         "1": {
-            width: 3,
+            width: 2,
             height: 5,
             skip: 1,
-            text: "010110010010111"
+            text: "0111010101"
         },
         "2": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111001111100111"
+            text: "01101001001001001111"
         },
         "3": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111001111001111"
+            text: "11100001011000011110"
         },
         "4": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "101101111001001"
+            text: "00110101100111110001"
         },
         "5": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111100111001111"
+            text: "11111000111000011110"
         },
         "6": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111100111101111"
+            text: "01111000111010010110"
         },
         "7": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111001001001001"
+            text: "11110001001001001000"
         },
         "8": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111101111101111"
+            text: "01101001011010010110"
         },
         "9": {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "111101111001111"
+            text: "01101001011100011110"
         },
         a: {
             width: 3,
@@ -1148,10 +1148,10 @@ const IMPORTS = (function () {
             text: `010110011`
         },
         f: {
-            width: 2,
-            height: 5,
+            width: 3,
+            height: 7,
             skip: 1,
-            text: `0110111010`
+            text: `001010011010010010100`
         },
         g: {
             width: 3,
@@ -1220,10 +1220,10 @@ const IMPORTS = (function () {
             text: `011101011001001`
         },
         r: {
-            width: 2,
+            width: 3,
             height: 3,
             skip: 3,
-            text: `111010`
+            text: `111100100`
         },
         s: {
             width: 3,
@@ -1265,85 +1265,85 @@ const IMPORTS = (function () {
             width: 3,
             height: 5,
             skip: 3,
-            text: `101101011001010`
+            text: `101101011001110`
         },
         z: {
             width: 3,
-            height: 3,
+            height: 5,
             skip: 3,
-            text: `110010011`
+            text: `111001010001110`
         },
         A: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: "010101111101101"
+            text: "01101001100111111001"
         },
         B: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `110101110101110`
+            text: `11101001111010011110`
         },
         C: {
             width: 3,
             height: 5,
             skip: 1,
-            text: `011100100100011`
+            text: `01101001100010010110`
         },
         D: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `110101101101110`
+            text: `11101001100110011110`
         },
         E: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `111100111100111`
+            text: `11111000111010001111`
         },
         F: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `111100111100100`
+            text: `11111000111010001000`
         },
         G: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `011100101101011`
+            text: `01111000101110010111`
         },
         H: {
             width: 3,
             height: 5,
             skip: 1,
-            text: `101101111101101`
+            text: `10011001111110011001`
         },
         I: {
-            width: 3,
+            width: 1,
             height: 5,
             skip: 1,
-            text: `111010010010111`
+            text: `11111`
         },
         J: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `111001001001110`
+            text: `11110001000110010110`
         },
         K: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `101101110101101`
+            text: `10011010110010101001`
         },
         L: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `100100100100111`
+            text: `10001000100010001111`
         },
         M: {
             width: 5,
@@ -1358,34 +1358,34 @@ const IMPORTS = (function () {
             text: `10011101101110011001`
         },
         O: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `010101101101010`
+            text: `01101001100110010110`
         },
         P: {
             width: 3,
             height: 5,
             skip: 1,
-            text: `110101110100100`
+            text: `11101001100111101000`
         },
         Q: {
-            width: 3,
-            height: 6,
+            width: 4,
+            height: 5,
             skip: 1,
-            text: `010101101101010001`
+            text: `01101001100110100101`
         },
         R: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `110101110101101`
+            text: `11101001100111101001`
         },
         S: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `011100010001110`
+            text: `01111000011000011110`
         },
         T: {
             width: 3,
@@ -1394,16 +1394,16 @@ const IMPORTS = (function () {
             text: `111010010010010`
         },
         U: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `101101101101111`
+            text: `10011001100110010110`
         },
         V: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `101101101101010`
+            text: `10011001100101010010`
         },
         W: {
             width: 5,
@@ -1412,22 +1412,22 @@ const IMPORTS = (function () {
             text: `1000110101101011010101010`
         },
         X: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `101101010101101`
+            text: `10011001011010011001`
         },
         Y: {
-            width: 3,
+            width: 4,
             height: 5,
             skip: 1,
-            text: `101101010010010`
+            text: `10011001011100011110`
         },
         Z: {
             width: 3,
             height: 5,
             skip: 1,
-            text: `111001010100111`
+            text: `11110010010010001111`
         }
     }
 
